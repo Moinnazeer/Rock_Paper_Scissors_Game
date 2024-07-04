@@ -37,9 +37,9 @@ Here're some of the project's best features:
 
 <p>1. Click on The Demo Link to Play</p>
 
-```
+
 <p>2.Click Reload Button on Brower to Reset(ctrl + r)</p>
-```
+
 
   
   
